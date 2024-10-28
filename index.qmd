@@ -1,0 +1,13 @@
+---
+title: "Quarto Playground"
+---
+
+Playground to play with Quarto publishing system.
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## Links
+
+* [Google](https://google.com/)
+* [Quarto](https://quarto.org/)
